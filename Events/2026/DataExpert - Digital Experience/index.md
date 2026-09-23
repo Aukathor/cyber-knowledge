@@ -1,9 +1,9 @@
 ---
 layout: default
-title: DataExpert
+title: "DataExpert - Digital Experience"
 ---
 
-# DataExpert
+# DataExpert - Digital Experience
 
 ## Sessies
 
