@@ -1,7 +1,3 @@
----
-title: "DataExpert - Digital Experience"
----
-
 # DataExpert - Digital Experience
 
 ## Sessies
