@@ -1,3 +1,9 @@
+---
+layout: page
+title: "DataExpert - Digital Experience"
+permalink: /Events/2026/DataExpert-Digital-Experience/
+---
+
 # DataExpert - Digital Experience
 
 ## Sessies
