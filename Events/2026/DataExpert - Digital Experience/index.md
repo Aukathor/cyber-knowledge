@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "DataExpert - Digital Experience"
 ---
 
