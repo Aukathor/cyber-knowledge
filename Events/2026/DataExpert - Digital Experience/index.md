@@ -7,4 +7,4 @@ title: DataExpert
 
 ## Sessies
 
-- [Sessie 1 – Stalkerware & Spyware](Sessie%201.html)
+- [Sessie 1 – Stalkerware & Spyware](Sessie_1_Stalkerware_Spyware.html)
